@@ -49,8 +49,7 @@ This project reflects how I design real-world backend systems with scalability, 
 - Experience collaborating with small teams to ship features and maintain backend systems
 
 ---
-
 ## Availability
 I’m available for freelance backend work, including MVP development, API work, and backend bug fixes.
 
-Feel free to reach out if you’re building or maintaining a product and need backend support.
+📧 **Contact:** chinazachinyere7@gmail.com
